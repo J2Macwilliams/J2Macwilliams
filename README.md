@@ -14,7 +14,8 @@ I'm excited about future opportunities to develop scalable impactful application
 
 **Connect with Me**
 
-[LinkedIN](https://www.linkedin.com/in/jeremyjmcwilliams/)
+[LinkedIn](https://www.linkedin.com/in/jeremyjmcwilliams/)
+
 [email](jeremjmcwilliams@gmail.com)
 
 
