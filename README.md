@@ -11,7 +11,9 @@ Currently, working on a GraphQL project.
 Ever curious to learn.
 
 I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams.
+
 **Connect with Me**
+
 [LinkedIN](https://www.linkedin.com/in/jeremyjmcwilliams/)
 [email](jeremjmcwilliams@gmail.com)
 
