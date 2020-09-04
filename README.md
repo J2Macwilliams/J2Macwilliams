@@ -1,5 +1,15 @@
 
 <img src='https://media.giphy.com/media/UPYAl818z08QoqnKyw/giphy.gif' width="850" height="350"/>
+
+I'm a Full Stack Software Developer.
+
+I enjoy React, GraphQL, and NodeJS, while ever curious to learn. 
+I'm a Problem Solver, a Developer, and a Teammate. Recently, I completed Lambda school, where the groundwork was set for my technical skills.
+
+Previous to Lambda, I had positions in the Restaurant Industry with creative venture on the side. From these pursuits, I developed skills in customer service, communication, organization, perseverance, efficiency, team building, and delivery. 
+
+I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams.
+
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
