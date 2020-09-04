@@ -1,4 +1,5 @@
-### Hi there 👋
+![Jeremy McWilliams Gif]
+(https://giphy.com/gifs/M9mW7ww8HAOyADLSDt)
 
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
