@@ -8,7 +8,7 @@
 
 Currently, working on a GraphQL project.
 
-Ever curious to learn, I'm interested in Python and Django.
+Ever curious to learn.
 
 I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams.
 
