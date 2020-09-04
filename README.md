@@ -1,5 +1,4 @@
-![GHprofile]
-(https://media.giphy.com/media/M9mW7ww8HAOyADLSDt/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
