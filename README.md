@@ -1,4 +1,4 @@
-![Jeremy McWilliams Gif]
+
 (https://giphy.com/gifs/M9mW7ww8HAOyADLSDt)
 
 <!--
