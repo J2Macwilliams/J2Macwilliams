@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/M9mW7ww8HAOyADLSDt/giphy.gif width=48)
+![Alt Text](https://media.giphy.com/media/M9mW7ww8HAOyADLSDt/giphy.gif)
 
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
