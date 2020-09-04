@@ -8,9 +8,9 @@
 
 Currently, working on a GraphQL project.
 
-Ever curious to learn, I'm interested in Python and Django
+Ever curious to learn, I'm interested in Python and Django.
 
-I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams*
+I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams.
 
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
