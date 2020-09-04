@@ -1,4 +1,4 @@
-![Alt Text]
+![GHprofile]
 (https://media.giphy.com/media/M9mW7ww8HAOyADLSDt/giphy.gif)
 
 <!--
