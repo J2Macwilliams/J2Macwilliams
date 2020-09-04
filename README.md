@@ -4,13 +4,13 @@
 <img src='https://media.giphy.com/media/WOUM9ZfxUZhhJHtJr3/giphy.gif' width="800" height="400"/>
 
 # Hello,
-  I'm a Problem Solver, a Developer, and a Teammate 
+  I'm a Problem Solver, a Developer, and a Teammate.
 
-*Currently, working on a GraphQL project.*
+*Currently, working on a GraphQL project.
 
-**Ever curious to learn, I'm interested in Python and Django**
+Ever curious to learn, I'm interested in Python and Django
 --------------------------------
-*I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams*
+I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams*
 
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
