@@ -1,5 +1,5 @@
 
-<img src='https://media.giphy.com/media/UPYAl818z08QoqnKyw/giphy.gif' width="350" height="200"/>
+<img src='https://media.giphy.com/media/UPYAl818z08QoqnKyw/giphy.gif' width="600" height="300"/>
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
