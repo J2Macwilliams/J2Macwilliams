@@ -1,8 +1,8 @@
 
 # Hello, My name is:
 
-<!-- <img src='https://media.giphy.com/media/WOUM9ZfxUZhhJHtJr3/giphy.gif' width="800" height="400"/> -->
-[<img src='./asset/profile.gif' width="800" height="400">]
+<img src='https://media.giphy.com/media/WOUM9ZfxUZhhJHtJr3/giphy.gif' width="800" height="400"/> 
+
 
 
  I'm a Problem Solver, a Developer, and a Teammate.
