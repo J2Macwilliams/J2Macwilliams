@@ -1,5 +1,5 @@
 
-<img src='https://media.giphy.com/media/UPYAl818z08QoqnKyw/giphy.gif' width="850" height="350"/>
+<img src='https://media.giphy.com/media/KEZIYyKeBSjbFlPp8R/giphy.gif' width="850" height="350"/>
 
 I'm a Problem Solver, a Developer, and a Teammate. Recently, I completed Lambda school, where the groundwork was set for my technical skills.
 
