@@ -1,5 +1,6 @@
 # Hello,
-I'm 
+# I'm
+
 <img src='https://media.giphy.com/media/WOUM9ZfxUZhhJHtJr3/giphy.gif' width="800" height="400"/>
 
 #  I'm a Problem Solver, a Developer, and a Teammate 
@@ -8,7 +9,7 @@ I'm
 
 **Ever curious to learn, I'm interested in Python and Django**
 --------------------------------
-I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams.
+*I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams*
 
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
