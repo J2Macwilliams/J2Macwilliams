@@ -1,5 +1,5 @@
 
-# Hello, I'm Jeremy -- [jeremyjmcwilliams](https://jeremyjmcwilliams.com/)
+# Hello, I'm [jeremyjmcwilliams](https://jeremyjmcwilliams.com/)
 
 <!-- <img src='https://media.giphy.com/media/WOUM9ZfxUZhhJHtJr3/giphy.gif' width="800"/>  -->
 
@@ -19,7 +19,7 @@ I'm excited about future opportunities to develop scalable impactful application
 
 **Languages / Tools:**
 
-<img  src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"alt="Node.js" width="26px"/>
+<img  src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"alt="Node.js" width="26px"/>[React]
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
