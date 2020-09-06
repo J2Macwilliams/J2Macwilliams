@@ -15,6 +15,7 @@ I'm excited about future opportunities to develop scalable impactful application
 [<img align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="JeremyJMcWilliams Twitter" width="30px"/>](https://twitter.com/McWilliamJJ1)
 
 <br/>
+
 ---
 
 **Languages / Tools:**
