@@ -29,4 +29,4 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='graphQL' src="https://avatars0.githubusercontent.com/u/12972006?s=200&v=4" width='35'>
 <img align='left' alt='python' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width='35'>
 <img align='left' alt='postgres' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width='35'>
-<img align='left' alt='mongoDB' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width='50'>
+<img align='left' alt='mongoDB' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
