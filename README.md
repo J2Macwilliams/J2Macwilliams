@@ -35,9 +35,9 @@ I'm excited about future opportunities to develop scalable impactful application
 <br/>
 <br/>
 
------
+---
 
-[![J2Macwilliams github stats](https://github-readme-stats.vercel.app/api?username=J2Macwilliams&show_icons=true&theme=radical)](https://github.com/J2Macwilliams/github-readme-stats)
+[![J2Macwilliams github stats](https://github-readme-stats.vercel.app/api?username=J2Macwilliams&show_icons=true&theme=tokyonight)](https://github.com/J2Macwilliams/github-readme-stats)
 
 
 
