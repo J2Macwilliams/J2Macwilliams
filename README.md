@@ -12,7 +12,7 @@ I'm excited about future opportunities to develop scalable impactful application
 **Connect with Me:**
 
 [<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/jeremy-mcwilliams/)
-[<img align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="JeremyJMcWilliams Twitter" width="30px"/>][https://twitter.com/McWilliamJJ1]
+[<img align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="JeremyJMcWilliams Twitter" width="30px"/>](https://twitter.com/McWilliamJJ1)
 
 ---
 
