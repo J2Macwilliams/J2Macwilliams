@@ -13,7 +13,8 @@ I'm excited about future opportunities to develop scalable impactful application
 
 **Connect with Me:**
 
-[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="26"> ](https://www.linkedin.com/in/jeremy-mcwilliams/)
+[<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/jeremy-mcwilliams/)
+[<img src="./assets/mail.png" width="30"> ](jeremyjmcwilliams@gmail.com)
 
 [email](jeremjmcwilliams@gmail.com)
 
@@ -21,7 +22,7 @@ I'm excited about future opportunities to develop scalable impactful application
 
 ![Node](https://avatars3.githubusercontent.com/u/9950313?s=200&v=4 | width=26)
 
-<img src="https://github.com/favicon.ico" width="48">
+
 <!--
 **J2Macwilliams/J2Macwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
