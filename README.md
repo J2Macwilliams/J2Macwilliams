@@ -3,11 +3,9 @@
 
 <!-- <img src='https://media.giphy.com/media/WOUM9ZfxUZhhJHtJr3/giphy.gif' width="800"/>  -->
 
- I'm a Problem Solver, Developer, and Teammate!
+Ever curious to learn. I'm a Problem Solver, Developer, and Teammate! 
 
-Currently, working on a GraphQL project.
-
-Ever curious to learn.
+*Currently, working on a GraphQL project.*
 
 I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams.
 
@@ -31,9 +29,5 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='apollo' src="https://avatars2.githubusercontent.com/u/17189275?s=200&v=4" width='35'>
 <img align='left' alt='graphQL' src="https://avatars0.githubusercontent.com/u/12972006?s=200&v=4" width='35'>
 <img align='left' alt='python' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width='35'>
-
-
-**Databases**
-
 <img align='left' alt='postgres' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width='35'>
 <img align='left' alt='mongoDB' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width='40'>
