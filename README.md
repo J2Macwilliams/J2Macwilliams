@@ -13,7 +13,7 @@ I'm excited about future opportunities to develop scalable impactful application
 
 **Connect with Me:**
 
-[LinkedIn](https://www.linkedin.com/in/jeremyjmcwilliams/)
+[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/jeremy-mcwilliams/)
 
 [email](jeremjmcwilliams@gmail.com)
 
