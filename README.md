@@ -2,7 +2,7 @@
 # Hello, I'm [jeremyjmcwilliams](https://jeremyjmcwilliams.com/)
 
 
-Ever curious to learn, I'm a Problem Solver, Developer, and Teammate! 
+Ever Curious to learn, I'm a Problem Solver, Developer, and Teammate! 
 
 *Currently, working on a GraphQL project.*
 
