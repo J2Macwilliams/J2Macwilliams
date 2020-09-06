@@ -33,6 +33,7 @@ I'm excited about future opportunities to develop scalable impactful application
 
 <br />
 <br />
+
 **UI / UX**
 
-<img align='left' alt='material-ui' src="https://avatars2.githubusercontent.com/u/33663932?s=200&v=4" width='35'/>
+<img align='left' alt='material-ui' src="https://avatars2.githubusercontent.com/u/33663932?s=200&v=4" width='40'/>
