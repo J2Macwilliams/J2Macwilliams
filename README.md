@@ -1,9 +1,8 @@
 
 # Hello, I'm [jeremyjmcwilliams](https://jeremyjmcwilliams.com/)
 
-<img src='https://media.giphy.com/media/WOUM9ZfxUZhhJHtJr3/giphy.gif' width="800"/> 
 
-Ever curious to learn, I'm a Problem Solver, Developer, and Teammate! 
+Ever Curious to learn, I'm a Problem Solver, Developer, and Teammate! 
 
 *Currently, working on a GraphQL project.*
 
