@@ -34,7 +34,8 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='less' src="https://avatars0.githubusercontent.com/u/3538330?s=200&v=4" width='40'/>
 <br/>
 <br/>
----
+
+-----
 
 [![J2Macwilliams github stats](https://github-readme-stats.vercel.app/api?username=J2Macwilliams&show_icons=true&theme=radical)](https://github.com/J2Macwilliams/github-readme-stats)
 
