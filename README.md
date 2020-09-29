@@ -44,9 +44,8 @@ I'm excited about future opportunities to develop scalable impactful application
 ---
 
 [![J2Macwilliams github stats](https://github-readme-stats.vercel.app/api?username=J2Macwilliams&show_icons=true&theme=tokyonight)](https://github.com/J2Macwilliams/github-readme-stats)
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=J2Macwilliams&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=J2Macwilliams&hide=php&theme=tokyonight" />
-</a>
+<img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=J2Macwilliams&hide=php&theme=tokyonight" />
+
 
 
 
