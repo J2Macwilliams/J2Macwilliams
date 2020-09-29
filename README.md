@@ -42,8 +42,10 @@ I'm excited about future opportunities to develop scalable impactful application
 <br/>
 
 ---
+## :trophy: My Github Stats:
 
 [![J2Macwilliams github stats](https://github-readme-stats.vercel.app/api?username=J2Macwilliams&show_icons=true&theme=tokyonight)](https://github.com/J2Macwilliams/github-readme-stats)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=J2Macwilliams&hide=php&theme=tokyonight)
 
 
 
