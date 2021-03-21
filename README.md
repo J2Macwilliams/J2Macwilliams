@@ -4,7 +4,7 @@
 
 Ever curious to learn, I'm a problem solver, developer, and teammate! 
 
-*Currently, working on AWS serverless & ASP.NET apps*
+*Currently, working on AWS serverless & ASP.NET apps.*
 
 I'm excited about future opportunities to develop scalable impactful applications and work on amazing teams.
 
