@@ -28,8 +28,8 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='typescript' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width='35'>
 <img align='left' alt='react' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width='35'>
 <img align='left' alt='redux' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width='35'>
+<img align='left' alt='vue' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width='35'/>
 <img align='left' alt='node' src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/>
-
 <img align='left' alt='python' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width='35'>
 
 
