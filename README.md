@@ -31,6 +31,7 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='vue' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width='35'/>
 <img align='left' alt='node' src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/>
 <img align='left' alt='python' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width='35'>
+<img align='left' alt='C#' src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" width='60'>
 
 
 <br/>
@@ -43,6 +44,7 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='prisma' src="https://avatars3.githubusercontent.com/u/55085183?s=200&v=4" width='35'/>
 <img align='left' alt='auth0' src="https://avatars.githubusercontent.com/u/2824157?s=200&v=4" width='35'/>
 <img align='left' alt='aws' src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width='35'/>
+<img align='left' alt='aws' src="https://www.opshub.com/wp-content/uploads/2021/01/azuredevops-integration.png" width='60'/>
 
 <br />
 <br />
