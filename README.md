@@ -37,14 +37,20 @@ I'm excited about future opportunities to develop scalable impactful application
 <br/>
 <br/>
 
+**Cloud**
+<img align='left' alt='aws' src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width='35'/>
+<img align='left' alt='aws' src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" width='35'/>
+
+<br/>
+<br/>
+
 **GraphQL, ORM, & misc...**
 
 <img align='left' alt='graphQL' src="https://avatars0.githubusercontent.com/u/12972006?s=200&v=4" width='35'/>
 <img align='left' alt='apollo' src="https://avatars2.githubusercontent.com/u/17189275?s=200&v=4" width='35'/>
 <img align='left' alt='prisma' src="https://avatars3.githubusercontent.com/u/55085183?s=200&v=4" width='35'/>
 <img align='left' alt='auth0' src="https://avatars.githubusercontent.com/u/2824157?s=200&v=4" width='35'/>
-<img align='left' alt='aws' src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width='35'/>
-<img align='left' alt='aws' src="https://www.opshub.com/wp-content/uploads/2021/01/azuredevops-integration.png" width='60'/>
+
 
 <br />
 <br />
