@@ -24,7 +24,6 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='C#' src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" width='60'>
 <img align='left' alt='javascript' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <img align='left' alt='typescript' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width='35'>
-<img align='left' alt='git' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width='35'>
 <img align='left' alt='html' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='35'>
 <img align='left' alt='css' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
 <img align='left' alt='node' src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/>
@@ -60,7 +59,7 @@ I'm excited about future opportunities to develop scalable impactful application
 <img align='left' alt='apollo' src="https://avatars2.githubusercontent.com/u/17189275?s=200&v=4" width='35'/>
 <img align='left' alt='prisma' src="https://avatars3.githubusercontent.com/u/55085183?s=200&v=4" width='35'/>
 <img align='left' alt='auth0' src="https://avatars.githubusercontent.com/u/2824157?s=200&v=4" width='35'/>
-
+<img align='left' alt='git' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width='35'>
 
 <br />
 <br />
